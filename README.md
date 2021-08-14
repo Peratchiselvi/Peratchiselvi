@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on Full Stack Websites
+- 👯 I’m looking to collaborate on developing Websites
 
 - 💬 Ask me about **Developing Websites**
 

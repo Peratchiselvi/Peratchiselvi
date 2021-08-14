@@ -1,5 +1,5 @@
 ## Hi 👋,this is Peratchi Selvi
-#### A Passionate Full Stack Web Developer, Currently Pursuing B.E(CSE) :woman_student:
+#### A Passionate Full Stack Developer, Currently Pursuing B.E(CSE) :woman_student:
 
 <!--
 **Peratchiselvi/Peratchiselvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

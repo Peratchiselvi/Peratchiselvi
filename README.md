@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on projects based on **Full Stack Web Development**
+- 🔭 I’m currently working on projects based on **Full Stack Development**
 
 - 🌱 I’m currently learning **ReactJs**
 
